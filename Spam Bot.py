@@ -23,4 +23,4 @@ async def on_message(message):
             x=x+1
         else:
             return
-Client.run(#Your bot token#)
+Client.run(#NzEwNTU3ODA4OTE1MTIwMTU5.Xr2Ncw.6Ay9vd_oOJXSWWAX_fOo_IFK_u8#)
